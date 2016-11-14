@@ -1,0 +1,21 @@
+{
+  "name": "sr-node-base",
+  "version": "0.0.1",
+  "description": "StuntedRunt Node PoC",
+  "author": "Rossi Guiliani <rossi@guiliani.me>",
+  "homepage": "https://stuntedrunt.com",
+  "bin": {
+},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/rguiliani/sr-node-base"
+},
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "license": "MIT"
+}
